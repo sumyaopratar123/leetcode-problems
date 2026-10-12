@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0258-add-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/sumyaopratar123/leetcode-problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Array
 |  |
@@ -13,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/sumyaopratar123/leetcode-problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
