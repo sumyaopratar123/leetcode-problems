@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0050-powx-n](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0258-add-digits) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -38,6 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0171-excel-sheet-column-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
