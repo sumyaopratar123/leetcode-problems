@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [1009-complement-of-base-10-integer](https://github.com/sumyaopratar123/leetcode-problems/tree/master/1009-complement-of-base-10-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
