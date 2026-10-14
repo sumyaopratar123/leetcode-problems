@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/sumyaopratar123/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/sumyaopratar123/leetcode-problems/tree/master/1009-complement-of-base-10-integer) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/sumyaopratar123/leetcode-problems/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 ## Divide and Conquer
 |  |
 | ------- |
